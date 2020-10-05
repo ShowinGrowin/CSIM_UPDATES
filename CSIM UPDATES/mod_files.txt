@@ -1,0 +1,3 @@
+add disk/wars_patch/ui_rpl_texture/ui_gamemode_img_040.pac
+add disk/wars_patch/ui_rpl_texture/ui_gamemode_img_040.pac.000
+add mod.ini
