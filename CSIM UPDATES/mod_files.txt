@@ -1,4 +1,4 @@
-// GHOST TOWN STUFF
+;; GHOST TOWN STUFF
 add disk/wars_patch/w3a04/w3a04_misc.pac
 add disk/wars_patch/w3a04/w3a04_obj.pac
 add disk/wars_patch/w3a04/w3a04_obj.pac.000
@@ -22,5 +22,5 @@ add disk/wars_patch/w3a04/w3a04_trr_s00.pac.000
 add disk/wars_patch/w3a04/w3a04_trr_s11.pac
 add disk/wars_patch/w3a04/w3a04_trr_s11.pac.000
 
-// UPDATE MOD INI
+;; UPDATE MOD INI
 add mod.ini
