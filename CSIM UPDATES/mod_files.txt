@@ -1,3 +1,26 @@
-add disk/wars_patch/ui_rpl_texture/ui_gamemode_img_040.pac
-add disk/wars_patch/ui_rpl_texture/ui_gamemode_img_040.pac.000
+// GHOST TOWN STUFF
+add disk/wars_patch/w3a04/w3a04_misc.pac
+add disk/wars_patch/w3a04/w3a04_obj.pac
+add disk/wars_patch/w3a04/w3a04_obj.pac.000
+add disk/wars_patch/w3a04/w3a04_obj.pac.001
+add disk/wars_patch/w3a04/w3a04_obj.pac.002
+add disk/wars_patch/w3a04/w3a04_obj.pac.003
+add disk/wars_patch/w3a04/w3a04_obj.pac.004
+add disk/wars_patch/w3a04/w3a04_obj.pac.000
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.000
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.001
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.002
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.003
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.004
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.005
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.006
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.007
+add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.008
+add disk/wars_patch/w3a04/w3a04_trr_s00.pac
+add disk/wars_patch/w3a04/w3a04_trr_s00.pac.000
+add disk/wars_patch/w3a04/w3a04_trr_s11.pac
+add disk/wars_patch/w3a04/w3a04_trr_s11.pac.000
+
+// UPDATE MOD INI
 add mod.ini
