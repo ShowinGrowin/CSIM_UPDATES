@@ -1,3 +1,49 @@
+;; Classic Sonic
+add disk/wars_patch/character/PlayerCommon.pac
+add disk/wars_patch/character/PlayerCommon.pac.000
+add disk/wars_patch/character/SonicClassic.pac
+add disk/wars_patch/character/SonicClassic.pac.000
+
+;; Object Data
+add disk/wars_patch/gedit/w1a04_gedit.pac
+add disk/wars_patch/gedit/w2a04_gedit.pac
+add disk/wars_patch/gedit/w3a04_gedit.pac
+add disk/wars_patch/gedit/w3b01_gedit.pac
+add disk/wars_patch/gedit/w4a04_gedit.pac
+add disk/wars_patch/gedit/w5a04_gedit.pac
+add disk/wars_patch/gedit/w7a04_gedit.pac
+
+;; Misc
+add disk/wars_patch/misc/score_record_misc.pac
+
+;; Sound
+add disk/wars_patch/sound/bgm_wars.acb
+add disk/wars_patch/sound/bgm_wars.awb
+add disk/wars_patch/sound/bgm_wars_classic.acb
+add disk/wars_patch/sound/Boss_Chaos0.acf
+add disk/wars_patch/sound/se_wars_obj_common.acb
+
+;; DEATH EGG STUFF
+add disk/wars_patch/w1a04/w1a04_obj.pac
+add disk/wars_patch/w1a04/w1a04_obj.pac.000
+add disk/wars_patch/w1a04/w1a04_obj.pac.001
+add disk/wars_patch/w1a04/w1a04_obj.pac.002
+add disk/wars_patch/w1a04/w1a04_trr_s00.pac
+add disk/wars_patch/w1a04/w1a04_trr_s00.pac.000
+add disk/wars_patch/w1a04/w1a04_trr_s00.pac.001
+add disk/wars_patch/w1a04/w1a04_trr_s00.pac.002
+
+;; CHEMICAL PLANT STUFF
+add disk/wars_patch/w2a04/w2a04_misc.pac
+add disk/wars_patch/w2a04/w2a04_obj.pac
+add disk/wars_patch/w2a04/w2a04_obj.pac.000
+add disk/wars_patch/w2a04/w2a04_obj.pac.001
+add disk/wars_patch/w2a04/w2a04_trr_s00.pac
+add disk/wars_patch/w2a04/w2a04_trr_s00.pac.000
+add disk/wars_patch/w2a04/w2a04_trr_s12.pac.001
+add disk/wars_patch/w2a04/w2a04_trr_s12.pac.000
+add disk/wars_patch/w2a04/w2a04_trr_s12.pac.001
+
 ;; GHOST TOWN STUFF
 add disk/wars_patch/w3a04/w3a04_misc.pac
 add disk/wars_patch/w3a04/w3a04_obj.pac
@@ -6,7 +52,6 @@ add disk/wars_patch/w3a04/w3a04_obj.pac.001
 add disk/wars_patch/w3a04/w3a04_obj.pac.002
 add disk/wars_patch/w3a04/w3a04_obj.pac.003
 add disk/wars_patch/w3a04/w3a04_obj.pac.004
-add disk/wars_patch/w3a04/w3a04_obj.pac.000
 add disk/wars_patch/w3a04/w3a04_trr_cmn.pac
 add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.000
 add disk/wars_patch/w3a04/w3a04_trr_cmn.pac.001
@@ -21,6 +66,67 @@ add disk/wars_patch/w3a04/w3a04_trr_s00.pac
 add disk/wars_patch/w3a04/w3a04_trr_s00.pac.000
 add disk/wars_patch/w3a04/w3a04_trr_s11.pac
 add disk/wars_patch/w3a04/w3a04_trr_s11.pac.000
+
+;; CHAOS BOSS STUFF
+add disk/wars_patch/w3b01/w3b01_misc.pac
+add disk/wars_patch/w3b01/w3b01_obj.pac
+add disk/wars_patch/w3b01/w3b01_obj.pac.000
+add disk/wars_patch/w3b01/w3b01_obj.pac.001
+add disk/wars_patch/w3b01/w3b01_obj.pac.002
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.000
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.001
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.002
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.003
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.004
+add disk/wars_patch/w3b01/w3b01_trr_cmn.pac.005
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.000
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.001
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.002
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.003
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.004
+add disk/wars_patch/w3b01/w3b01_trr_s01.pac.005
+
+;; CASINO FOREST STUFF
+add disk/wars_patch/w4a04/w4a04_obj.pac
+add disk/wars_patch/w4a04/w4a04_obj.pac.000
+add disk/wars_patch/w4a04/w4a04_obj.pac.001
+add disk/wars_patch/w4a04/w4a04_trr_s10.pac
+add disk/wars_patch/w4a04/w4a04_trr_s10.pac.000
+add disk/wars_patch/w4a04/w4a04_trr_s11.pac
+add disk/wars_patch/w4a04/w4a04_trr_s11.pac.000
+add disk/wars_patch/w4a04/w4a04_trr_s11.pac.001
+add disk/wars_patch/w4a04/w4a04_trr_s11.pac.002
+
+;; GREEN HILL STUFF
+add disk/wars_patch/w5a04/w5a04_obj.pac
+add disk/wars_patch/w5a04/w5a04_obj.pac.000
+add disk/wars_patch/w5a04/w5a04_obj.pac.001
+add disk/wars_patch/w5a04/w5a04_obj.pac.002
+add disk/wars_patch/w5a04/w5a04_trr_cmn.pac
+add disk/wars_patch/w5a04/w5a04_trr_cmn.pac.000
+add disk/wars_patch/w5a04/w5a04_trr_cmn.pac.001
+add disk/wars_patch/w5a04/w5a04_trr_cmn.pac.002
+add disk/wars_patch/w5a04/w5a04_trr_cmn.pac.003
+add disk/wars_patch/w5a04/w5a04_trr_s00.pac
+add disk/wars_patch/w5a04/w5a04_trr_s00.pac.000
+
+;; IRON FORTRESS STUFF
+add disk/wars_patch/w7a04/w7a04_obj.pac
+add disk/wars_patch/w7a04/w7a04_obj.pac.000
+add disk/wars_patch/w7a04/w7a04_trr_cmn.pac
+add disk/wars_patch/w7a04/w7a04_trr_cmn.pac.000
+add disk/wars_patch/w7a04/w7a04_trr_cmn.pac.001
+add disk/wars_patch/w7a04/w7a04_trr_cmn.pac.002
+add disk/wars_patch/w7a04/w7a04_trr_s01.pac
+add disk/wars_patch/w7a04/w7a04_trr_s01.pac.000
+
+;; MAIN DIRECTORY STUFF
+add disk/wars_patch/actstgmission.lua
+add disk/wars_patch/CommonObject.pac
+add disk/wars_patch/CommonObject.pac.000
+add disk/wars_patch/CommonObject.pac.001
 
 ;; UPDATE MOD INI
 add mod.ini
